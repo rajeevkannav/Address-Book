@@ -1,0 +1,27 @@
+{
+  "name": "address_book",
+  "description": "Rails 5.1 + Angular 1.5",
+  "main": "",
+  "authors": [
+    "Sachin Choudhary <sachin@headerlabs.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "^1.0.3",
+    "bootstrap": "^3.3.7",
+    "angularjs-datepicker": "^2.1.19",
+    "AngularDevise": "angular-devise#^1.3.0",
+    "angular-pnotify": "^0.1.2",
+    "bootstrap-social": "^5.1.1"
+  }
+}
