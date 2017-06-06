@@ -4,7 +4,7 @@
 //= require angularjs-datepicker
 //= require AngularDevise
 //= require jquery
-//= require bootstrap
+//= require bootstrap-sprockets
 //= require lodash
 //= require moment
 //= require pnotify/dist/pnotify.js
