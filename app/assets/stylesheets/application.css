@@ -13,7 +13,7 @@
  *= require bootstrap/dist/css/bootstrap
  *= require pnotify/dist/pnotify.css
  *= require pnotify/dist/pnotify.buttons.css
- *= require font-awesome/css/font-awesome.min.css
+ *= require font-awesome
  *= require bootstrap-social
  *= require_tree .
  *= require_self

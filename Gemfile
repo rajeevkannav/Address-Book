@@ -78,6 +78,8 @@ gem 'exception_notification'
 
 gem 'figaro'
 
+gem "font-awesome-rails"
+
 # omniauth integration
 
 gem 'omniauth-facebook'
