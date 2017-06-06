@@ -51,6 +51,8 @@ end
 
 group :heroku do
   gem 'pg'
+
+  gem 'uglifier'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
