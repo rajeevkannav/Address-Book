@@ -11,6 +11,10 @@
 #   stripe_publishable_key: pk_live_9lcthxpSIHbGwmdO941O1XVU
 
 development:
+  SECRET_KEY_BASE:
+  SENDGRID_USERNAME:
+  SENDGRID_PASSWORD:
+  SENDGRID_DOMAIN:
   FACEBOOK_KEY:
   FACEBOOK_SECRET:
   GITHUB_KEY:
